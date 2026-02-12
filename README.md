@@ -1,0 +1,1 @@
+# wayland-clipboard-menu
