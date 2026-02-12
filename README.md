@@ -98,11 +98,10 @@ window {
   backdrop-filter: blur(18px);
   border: 1px solid rgba(255, 255, 255, 0.10);
   box-shadow:
-    0 20px 60px rgba(0, 0, 0, 0.55),   /* sombra principal */
-    0 8px 24px rgba(0, 0, 0, 0.35),    /* profundidade */
-    0 0 20px rgba(120, 120, 255, 0.15); /* brilho sutil */
+    0 20px 60px rgba(0, 0, 0, 0.55),
+    0 8px 24px rgba(0, 0, 0, 0.35),
+    0 0 20px rgba(120, 120, 255, 0.15);
 }
-
 #input {
   margin: 6px;
   padding: 8px;
@@ -110,12 +109,10 @@ window {
   border: none;
   background-color: rgba(255, 255, 255, 0.06);
 }
-
 #entry {
   padding: 8px;
   border-radius: 10px;
 }
-
 #entry:selected {
   background-color: rgba(255, 255, 255, 0.12);
 }
