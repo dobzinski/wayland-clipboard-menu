@@ -1,5 +1,4 @@
 ![Wayland](https://img.shields.io/badge/Wayland-only-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 # wayland-clipboard-menu
 
